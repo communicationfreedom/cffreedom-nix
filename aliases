@@ -1,0 +1,7 @@
+# A collection of alias commands to make command line fu easier
+# Invoke this from your login script to have them available 
+# any time you login.
+
+alias unzip=tar -zxvf $1
+alias server="uname -n"
+alias gohome="cd ~"
